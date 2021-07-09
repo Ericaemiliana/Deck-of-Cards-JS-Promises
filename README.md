@@ -15,3 +15,5 @@ Build an HTML page that lets you draw cards from a deck. When the page loads, go
 Here’s how this might look (with styling added):
 
 [link](http://curric.rithmschool.com/springboard/exercises/async-nums-cards/_images/cards.gif)
+
+[demo](deckCards.mov)
