@@ -1,4 +1,4 @@
-# Part 2: Deck of Cards
+Deck of Cards
 
 Deck of Cards using JavaScript Promises. 
 
