@@ -16,4 +16,4 @@ Here’s how this might look (with styling added):
 
 [link](http://curric.rithmschool.com/springboard/exercises/async-nums-cards/_images/cards.gif)
 
-[demo](deckCards.mov)
+
